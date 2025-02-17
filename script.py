@@ -1,2 +1,2 @@
 print("Ciao, GitHub!") 
-print("Modifica fatta da VS Code!")  
+print("Modifica ds da VS Code!")
